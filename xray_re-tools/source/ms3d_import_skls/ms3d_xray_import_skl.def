@@ -1,0 +1,6 @@
+VERSION 0.1
+
+LIBRARY ms3dXRayImportSkl.dll
+EXPORTS
+	CreatePlugIn
+	DestroyPlugIn

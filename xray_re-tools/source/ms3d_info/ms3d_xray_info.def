@@ -1,0 +1,6 @@
+VERSION 0.1
+
+LIBRARY ms3dXRayModelInfo.dll
+EXPORTS
+	CreatePlugIn
+	DestroyPlugIn
